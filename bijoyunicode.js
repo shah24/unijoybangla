@@ -1,9 +1,9 @@
 /**
  * Unicode unijoy Parser for writing in webpages
- * This script transliterate the user input and display unicode bangla characters
+ * This script helps to write unicode bangla using unijoy (or bijoy) keyboard mapping
  * 
- * @name Ekushey Unicode Parser
- * @version 1.0 [Date 30th July, 2006]
+ * @name Unijoy Unicode Parser
+ * @version 1.0 [Date 26th August, 2006]
  * @author Hasin Hayder. Visit My Homepage at http://hasin.wordpress.com
  * @license LGPL
  */
