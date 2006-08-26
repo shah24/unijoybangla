@@ -1,0 +1,21 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<title>Example Use</title>
+</head>
+<script src="bijoyunicode.js"></script>
+
+<body>
+<h2>Use Ctrl+Q to switch the Keyboard Mode [In FireFox] </h2>
+<form>
+  <textarea name="bangla" id="bangla" cols="80" rows="10" onfocus="" style="font-family:vrinda; font-size: 20px; width: 400px; height: 100px;" ></textarea>
+  <br/>
+<input type="button" onclick="switched=!switched;" value="switch keyboard mode" />
+</form>
+<script>
+makeUnijoyEditor('bangla'); //pass the textarea Id
+</script>
+
+</body>
+</html>
