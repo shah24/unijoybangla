@@ -92,8 +92,8 @@ unijoy['X']='\u09CC'; // ou kar
 unijoy['gX']='\u0994'; // OU
 //unijoy['Ou']='\u0994'; // OU
 unijoy['gC']='\u0990'; // Oi
-unijoy['\\']='\u09CE'; // tto
-unijoy['|']='\u0983'; // bisworgo
+//unijoy['\\']='\u09CE'; // tto
+//unijoy['|']='\u0983'; // bisworgo
 unijoy["G"] ="\u0964"; // dari
 //unijoy[".."] = "."; // fullstop
 unijoy['g'] = ' ';//'\u09CD' + '\u200c'; // hosonto
@@ -107,6 +107,9 @@ unijoy['rZ'] = unijoy['r']+ '\u200c'+ '\u09CD'+'\u09AF';
 unijoy['z'] =  '\u09CD'+ unijoy['v'];
 unijoy['x'] = '\u09CB';
 unijoy['C'] = '\u09C8'; //Oi Kar
+unijoy['\\'] = '\u0983'; 
+unijoy['|']='\u09CE'; // bisworgo
+
 
 
 
