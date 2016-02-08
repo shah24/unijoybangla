@@ -1,0 +1,1 @@
+This is a small javascript which will help web developers to provide unicode bangla writing facility in their web apps. See the example script to understand how you can incorporate it in your application.
